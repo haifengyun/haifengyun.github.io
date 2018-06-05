@@ -839,3 +839,7 @@ dt, dd {
 	font-size: 14px;
 	    margin-top: -40px;
 }
+
+.logo img{
+	height:100%;
+}
