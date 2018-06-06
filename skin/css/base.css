@@ -844,11 +844,17 @@ dt, dd {
 	height: 103px;
 }
 
+.mapdec {
+	width:570px;
+}
 
  @media only screen and (max-width: 767px) {
  	.logo img{
 		 height: 58px;
 	 }
+	 .mapdec {
+	 	width: 100%;
+	 }
  }
- 
+
     
