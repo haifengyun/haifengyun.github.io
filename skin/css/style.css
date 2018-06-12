@@ -554,7 +554,7 @@
 	background: url(../images/007.png) center repeat;
 }
 .index_product_list .list_txt {
-	color: #fff;
+	/* color: #fff; */
 	margin-top: 10px;
 }
 .index_product_list .list_title {
